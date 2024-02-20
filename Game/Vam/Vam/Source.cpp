@@ -4,6 +4,7 @@ int main()
 {
 
 	//----------------------------------------INITIALIZE--------------------------------//
+	a
 
 	sf::RenderWindow window(sf::VideoMode(800, 600), "Vam Clone");
 
